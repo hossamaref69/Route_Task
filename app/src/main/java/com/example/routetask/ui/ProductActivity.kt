@@ -17,7 +17,6 @@ import dagger.hilt.android.AndroidEntryPoint
 class ProductActivity : AppCompatActivity() {
     private lateinit var binding: ActivityProductBinding
     private var adapter: ProductAdapter? = null
-    private var dialog: AlertDialog? = null
     private val productFragmentViewModel: ProductViewModel by viewModels<ProductViewModel>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
