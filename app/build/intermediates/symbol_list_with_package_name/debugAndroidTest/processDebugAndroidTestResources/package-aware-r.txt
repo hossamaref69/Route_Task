@@ -1,0 +1,3 @@
+com.example.routetask.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

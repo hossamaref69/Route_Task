@@ -1,0 +1,5 @@
+com.example.routetask.test.app-core-1.6.1-0 C:\Users\hossam aref\.gradle\caches\transforms-3\8bc212197ed59c390e45c9f5195612b5\transformed\core-1.6.1\res
+com.example.routetask.test.app-androidTest-1 C:\Users\hossam aref\AndroidStudioProjects\RouteTask\app\build\generated\res\resValues\androidTest\debug
+com.example.routetask.test.app-mergeDebugAndroidTestResources-2 C:\Users\hossam aref\AndroidStudioProjects\RouteTask\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.routetask.test.app-mergeDebugAndroidTestResources-3 C:\Users\hossam aref\AndroidStudioProjects\RouteTask\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.routetask.test.app-debugAndroidTest-4 C:\Users\hossam aref\AndroidStudioProjects\RouteTask\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

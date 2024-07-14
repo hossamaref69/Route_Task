@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="dark_blue">#06004F</color>
+    <color name="dimmed_blue">#6A6695</color>
+    <color name="gray">#DDDDDD</color>
+    <color name="light_blue">#004182</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">RouteTask</string>
+    <string name="review">Review</string>
+    <string name="what_do_you_search_for">What do you search for?</string>
+    <style name="Base.Theme.RouteTask" parent="Theme.Material3.DayNight.NoActionBar">
+        
+         <item name="colorPrimary">@color/dark_blue</item>
+    </style>
+    <style name="Theme.RouteTask" parent="Base.Theme.RouteTask"/>
+</resources>
